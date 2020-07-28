@@ -26,7 +26,7 @@ git clone https://gitlab.com/Niranjanpandeshwar/snp
 ```
 cd snp
 ```
-3. Run the "ll" command to see all the files and folders. You should see 3 folders named "input", "reference" and "output" and a file named snp_script.sh. The input folder has some test fastq files. reference folder has a test fasta reference file. The output folder has the expected files. 
+3. Run the "ll" command to see all the files and folders. You should see 3 folders named "input", "reference" and "output", a file named snp_script.sh and a Readme.md file. The input folder has some test fastq files. reference folder has a test fasta reference file. The output folder has the expected files. 
 ```
 ll
 ```
